@@ -4,6 +4,7 @@ import { motion } from "framer-motion";
 import { Link } from "react-router-dom";
 import img33 from '../assets/img33.jpg'
 
+
 const gradient = "from-[#1e3a8a] via-[#2563eb] to-[#06b6d4]";
 
 export default function About() {
